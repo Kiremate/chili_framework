@@ -2,6 +2,7 @@
 #define MAZE_H
 #include <cstddef>
 #include <vector>
+#include "Position.h"
 #include "Graphics.h"
 
 
