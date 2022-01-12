@@ -1,4 +1,5 @@
-# chili_framework
-This is the Chili Framework used in the world-famous, erection-inducing, cancer-curing Planet Chili C++ Tutorials.
--------------- Bloodmask
-Using chili's framework to create AI pathfinding QLearning project
+<h1>Bloodmask QLearning <h1>
+  <p>
+    Using chili's framework to create AI pathfinding QLearning project
+  </p>
+
